@@ -10,7 +10,7 @@ image = Image.open("cr7.jpeg")
 st.image(image, caption="Interfaces multimodales")
 
 
-texto ) st.text_input("Oe")
+texto = st.text_input("Oe")
 st.write("Que más")
 
 st.subheader("Ahora usemos 2 columnas")
